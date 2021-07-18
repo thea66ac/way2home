@@ -10,6 +10,7 @@ public class Way2homeApplication {
 		SpringApplication.run(Way2homeApplication.class, args);
     System.out.println("Hallo");
     int num = 7;
+    String name = "Jonny";
 	}
 
 }
