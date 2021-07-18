@@ -9,6 +9,7 @@ public class Way2homeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Way2homeApplication.class, args);
     System.out.println("Hallo");
+    int num = 7;
 	}
 
 }
