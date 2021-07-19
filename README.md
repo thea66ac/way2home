@@ -7,4 +7,4 @@
 - @6ycopuk
 - @thea66ac 
 
-and we use this repo to store us web app project **way2home**.
+and we use this repo to store us project **way2home**.
