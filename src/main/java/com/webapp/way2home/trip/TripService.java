@@ -14,7 +14,7 @@ public class TripService {
                 new Trip(1, "Wien", "Grozny",
                         LocalDate.of(2021, Month.JULY, 25),
                         LocalDate.of(2021, Month.AUGUST, 28)),
-                new Trip(1, "Grozny", "Wien",
+                new Trip(2, "Grozny", "Wien",
                         LocalDate.of(2021, Month.AUGUST, 17),
                         LocalDate.of(2021, Month.AUGUST, 20))
         );
